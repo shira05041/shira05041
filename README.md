@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Shira Weissman
 
-<!--
-**shira05041/shira05041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Python & Go | AI-Oriented Systems  
+Building clean, scalable backends and integrating AI into real products 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Backend Developer with hands-on experience in **Python** and **Go**
+
+
+
+---
+
+## 🤖 AI Experience
+- Learning and working with **LLMs** and AI-powered systems
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, Go  
+- **Frameworks:** FastAPI, Flask  
+- **Databases:** PostgreSQL, SQLite  
+- **Caching & Messaging:** Redis  
+- **AI:** LLM APIs, AI system integration  
+- **Tools:** Git, Docker  
+- **Testing:** Pytest, Unit Testing  
+
+---
+
+## 🎯 What I'm Looking For
+- Junior / Backend Developer position
+- Backend role with exposure to **AI-powered products**
+- A team where I can grow, learn, and contribute from day one
+
+---
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/shira05041
+- LinkedIn: https://linkedin.com/in/SHIRA-WEISSMAN
